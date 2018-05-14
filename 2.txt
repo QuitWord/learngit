@@ -2,4 +2,5 @@ The fist test.
 The second test.
 The third test.
 Switch to new branch dev.
-Creating a new branch feature1 is fixed & simple.
+Now it is new branch feature1.
+Begin first test.
