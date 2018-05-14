@@ -2,4 +2,4 @@ The fist test.
 The second test.
 The third test.
 Switch to new branch dev.
-Creating a new branch FEATYRE1.
+Creating a new branch feature1 is fixed and simple.
