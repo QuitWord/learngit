@@ -2,5 +2,9 @@ The fist test.
 The second test.
 The third test.
 Switch to new branch dev.
+<<<<<<< HEAD
 Now it is new branch feature1 with simple.
+=======
+Now it is new branch feature1.
+>>>>>>> feature1
 Begin first test.
