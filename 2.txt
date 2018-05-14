@@ -4,3 +4,4 @@ The third test.
 Switch to new branch dev.
 Now it is new branch feature1 with easy.
 Begin first test.
+Third test begin.
